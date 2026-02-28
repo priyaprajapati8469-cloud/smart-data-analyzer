@@ -1,2 +1,27 @@
-# smart-data-analyzer
-"python based tool for corporate data analysis"
+# Corporate Data Analyzer
+
+## Project Description
+Corporate Data Analyzer is a desktop-based data analysis application built using Python and Tkinter. 
+
+The application allows users to upload CSV or Excel files, generate grouped summary reports, perform aggregations, and visualize data through charts.
+
+## Key Features
+- CSV and Excel file support
+- GroupBy and aggregation (Sum, Mean, Max, Min, Count, Median)
+- Report preview in table format
+- Chart generation (Bar, Column, Line, Pie)
+- Export report (Excel / CSV)
+- Export chart (PNG)
+
+## Technologies Used
+- Python
+- Tkinter
+- Pandas
+- Matplotlib
+
+## How to Run
+1. Install Python
+2. Install required libraries:
+   pip install pandas matplotlib
+3. Run:
+   python smart_analyzer.py

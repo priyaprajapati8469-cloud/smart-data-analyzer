@@ -41,6 +41,10 @@ The application allows users to upload CSV or Excel files, generate grouped summ
 
 # 🐍 Python Programming Course Certificate
 
+## 🎓 Certificate
+
+![AI Powered Python Certificate](certificate.png.jpeg)
+
 ## 📜 About This Achievement
 
 I have successfully completed a Python Programming course to strengthen my programming foundation and improve my technical skills.

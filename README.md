@@ -19,6 +19,15 @@ The application allows users to upload CSV or Excel files, generate grouped summ
 - Pandas
 - Matplotlib
 
+- ## What This Project Demonstrates
+
+- Data cleaning and preprocessing techniques
+- GroupBy and aggregation using Pandas
+- GUI application development using Tkinter
+- Data visualization integration with Matplotlib
+- Report and chart export automation
+- Real-world business reporting logic
+
 ## How to Run
 1. Install Python
 2. Install required libraries:

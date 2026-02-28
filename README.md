@@ -38,3 +38,49 @@ The application allows users to upload CSV or Excel files, generate grouped summ
    ## Application Preview
 
 ![App Screenshot](app_preview.png.png)
+
+# 🐍 Python Programming Course Certificate
+
+## 📜 About This Achievement
+
+I have successfully completed a Python Programming course to strengthen my programming foundation and improve my technical skills.
+
+This course helped me understand core Python concepts and build practical knowledge that can be applied in real-world projects.
+
+---
+
+## 📚 Skills & Concepts Covered
+
+- Python Fundamentals
+- Data Types & Variables
+- Conditional Statements (if-else)
+- Loops (for, while)
+- Functions
+- File Handling
+- Basic Problem Solving
+- Mini Projects
+
+---
+
+## 🚀 What I Gained From This Course
+
+- Strong foundation in Python programming
+- Improved logical thinking and problem-solving skills
+- Confidence in writing and understanding Python code
+- Ability to build small automation and data-related projects
+
+---
+
+## 🎯 Career Goal
+
+I am continuously improving my Python skills and applying them in Data Analytics and real-world applications.
+
+---
+
+## 📎 Certificate
+
+The certificate file is available in this repository.
+
+---
+
+✨ Thank you for visiting my profile.

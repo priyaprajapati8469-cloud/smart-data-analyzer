@@ -34,3 +34,7 @@ The application allows users to upload CSV or Excel files, generate grouped summ
    pip install pandas matplotlib
 3. Run:
    python smart_analyzer.py
+
+   ## Application Preview
+
+![App Screenshot](app_preview.png)

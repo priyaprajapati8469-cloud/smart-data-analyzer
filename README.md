@@ -37,4 +37,4 @@ The application allows users to upload CSV or Excel files, generate grouped summ
 
    ## Application Preview
 
-![App Screenshot](app_preview.png)
+![App Screenshot](app_preview.png.png)
